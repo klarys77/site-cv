@@ -1,7 +1,7 @@
 .head {
  display: flex;
  justify-content: center;
- background-color:  white;
+ background-color: #F9F7F8;
 }
 .taille{
   width: 10%;
@@ -15,15 +15,16 @@
   width: 100%;
   height: 1px;
   position: relative;
-  background-color: #ffcccc;
+  background-color: #F9F7F8;
   border-top:1px; solid:#c4c9c7;
 }
 
 .back { 
- background-color:  white; 
+ background-color:  #F9F7F8; 
 }
 .texte{
  color: black;
+ margin: 1em;
 }
 
 .cards {
@@ -75,13 +76,6 @@
   justify-content: flex-start;
 }
 
-.back { 
- background-color:  white; 
-}
-
-.texte{
- color: black;
-}
 
 .réseaux {
   color: #ffcccc;
@@ -96,7 +90,7 @@
 .image{
   display: flex;
   align-self: flex-start;
-  width: 30%;
+  width: 27%;
 }
 
 .carousel{
