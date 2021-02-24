@@ -112,10 +112,10 @@
 }
 
 .card-element2 {
-  width: 90%;
+  width: 100%;
   background-size: cover;
   background-position: center;
-  height: 600px;
+  height: 400px;
   border-radius: 5px;
 }
 
